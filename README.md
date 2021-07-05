@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project is used for **image style transfer**. And the idea comes from https://github.com/miracle0614/style_transfer
+This project is used for **image style transfer**
 
 ### Environment
 
